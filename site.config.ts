@@ -2,8 +2,8 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  //rootNotionPageId: '7875426197cf461698809def95960ebf',
-   rootNotionPageId: '45ab6e21c6cb450bb5ff1a3e9871c5f5',
+  rootNotionPageId: 'Java-a8779a753bdb4321918f528292de1b8e',
+   //rootNotionPageId: '45ab6e21c6cb450bb5ff1a3e9871c5f5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -11,16 +11,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'truthful-charger-a83.notion.site',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'chsss3',
+  github: 'cryptocatdog',
+  linkedin: 'null',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
